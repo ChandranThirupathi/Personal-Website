@@ -59,7 +59,6 @@ const Projects = () => {
       title: "AI-Driven Grade Prediction System",
       description: "A system built to predict student grades based on historical data and student behavior patterns.",
       techStack: ["IBM SPSS Modeler", "Python", "Data Analysis"],
-      metrics: "Achieved 85% accuracy",
       icon: Database
     },
     {
