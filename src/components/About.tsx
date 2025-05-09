@@ -36,13 +36,6 @@ const About = () => {
               <p className="text-primary font-medium">Computer Science & Math</p>
               <p className="text-sm text-muted-foreground">89%</p>
             </div>
-            
-            <h3 className="text-xl font-semibold mb-4 mt-8">Certifications</h3>
-            <ul className="list-disc list-inside text-muted-foreground space-y-2">
-              <li>JLPT N4</li>
-              <li>IBM Certified Business Intelligence and AI Analyst</li>
-              <li>NPTEL Certified Computer Graphics and Ethical Hacking</li>
-            </ul>
           </div>
         </div>
       </div>
