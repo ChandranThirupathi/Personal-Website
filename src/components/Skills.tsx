@@ -28,7 +28,7 @@ const Skills = () => {
         
         <div className="grid md:grid-cols-3 gap-8">
           {/* Programming Languages */}
-          <div className="bg-white p-6 rounded-lg shadow-sm border animate-on-scroll">
+          <div className="bg-white p-6 rounded-lg shadow-sm border">
             <div className="flex items-center mb-4">
               <Code className="mr-3 text-primary" size={24} />
               <h3 className="text-xl font-semibold">Languages</h3>
@@ -55,7 +55,7 @@ const Skills = () => {
           </div>
           
           {/* Tools and Technologies */}
-          <div className="bg-white p-6 rounded-lg shadow-sm border animate-on-scroll">
+          <div className="bg-white p-6 rounded-lg shadow-sm border">
             <div className="flex items-center mb-4">
               <Laptop className="mr-3 text-primary" size={24} />
               <h3 className="text-xl font-semibold">Tools</h3>
@@ -82,7 +82,7 @@ const Skills = () => {
           </div>
           
           {/* Areas of Expertise */}
-          <div className="bg-white p-6 rounded-lg shadow-sm border animate-on-scroll">
+          <div className="bg-white p-6 rounded-lg shadow-sm border">
             <div className="flex items-center mb-4">
               <Database className="mr-3 text-primary" size={24} />
               <h3 className="text-xl font-semibold">Expertise</h3>

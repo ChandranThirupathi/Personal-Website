@@ -15,7 +15,7 @@ const ProjectCard = ({
   icon: typeof Laptop;
 }) => {
   return (
-    <div className="bg-white p-6 rounded-lg shadow-sm border hover:shadow-md transition-all animate-on-scroll">
+    <div className="bg-white p-6 rounded-lg shadow-sm border hover:shadow-md transition-all">
       <div className="flex items-center mb-4">
         <div className="bg-primary/10 p-3 rounded-full mr-3">
           <Icon className="text-primary" size={24} />

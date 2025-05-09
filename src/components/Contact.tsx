@@ -36,7 +36,7 @@ const Contact = () => {
       <div className="container mx-auto">
         <h2 className="section-title">Get In Touch</h2>
         
-        <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto animate-on-scroll">
+        <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
           <ContactLink 
             href="mailto:chandranthiru22@gmail.com"
             icon={Mail}
@@ -59,7 +59,7 @@ const Contact = () => {
           />
         </div>
         
-        <div className="flex justify-center mt-12 animate-on-scroll">
+        <div className="flex justify-center mt-12">
           <a 
             href="#" 
             className="btn btn-primary flex items-center"

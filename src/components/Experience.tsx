@@ -13,7 +13,7 @@ const ExperienceItem = ({
   description: string;
 }) => {
   return (
-    <div className="mb-8 relative pl-8 animate-on-scroll">
+    <div className="mb-8 relative pl-8">
       <div className="absolute left-0 top-0 w-6 h-6 rounded-full bg-primary/20 border-2 border-primary flex items-center justify-center">
         <div className="w-2 h-2 rounded-full bg-primary"></div>
       </div>

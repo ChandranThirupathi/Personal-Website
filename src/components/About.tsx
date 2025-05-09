@@ -6,7 +6,7 @@ const About = () => {
         <h2 className="section-title">About Me</h2>
         
         <div className="grid md:grid-cols-2 gap-12">
-          <div className="animate-on-scroll">
+          <div>
             <h3 className="text-xl font-semibold mb-4">Who I Am</h3>
             <p className="text-muted-foreground mb-6 leading-relaxed">
               I'm Chandran T, an aspiring AI & Robotics enthusiast pursuing B.Tech in Artificial Intelligence 
@@ -17,7 +17,7 @@ const About = () => {
             </p>
           </div>
           
-          <div className="animate-on-scroll">
+          <div>
             <h3 className="text-xl font-semibold mb-4">Education</h3>
             <div className="mb-6">
               <div className="flex justify-between mb-1">

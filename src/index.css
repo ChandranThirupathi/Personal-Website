@@ -112,11 +112,3 @@
     @apply border border-input hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4;
   }
 }
-
-.animate-on-scroll {
-  @apply opacity-0;
-}
-
-.animate-on-scroll.animated {
-  @apply animate-fade-in;
-}
