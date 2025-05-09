@@ -1,5 +1,5 @@
 
-import { Laptop, Database, Robot } from "lucide-react";
+import { Laptop, Database, Bot } from "lucide-react";
 
 const ProjectCard = ({ 
   title, 
@@ -67,7 +67,7 @@ const Projects = () => {
       description: "Autonomous robots that use generative AI and reinforcement learning to adapt to various environments and tasks.",
       techStack: ["Python", "Reinforcement Learning", "Generative AI"],
       metrics: "90% task success rate",
-      icon: Robot
+      icon: Bot
     }
   ];
 
